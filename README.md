@@ -24,12 +24,12 @@ About Me:
 - 🤔 Exploring new tecnologies and always learning new things!
 - 🎓 Studying Computer Science in Unifil.
 - 💼 Working asa QA in Fortisgames.
-- 🌱 Learning more about GODOT Game engine and AI. Check my current project in progress below:
-
+- 🌱 Learning more about GODOT Game engine and AI. You check my current project in progress below:
+</p>
   <a href="https://github.com/diogosabec/Primeiro-Projeto-Godot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogosabec&repo=Primeiro-Projeto-Godot&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="300" alt="Readme Card">
   </a>
-</p>
+
 
 <p>
 What I love:
