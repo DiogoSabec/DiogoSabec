@@ -79,7 +79,7 @@ What I love:
 
 <img src="files\no-way-home-spider-man-no-way-home.gif" height="170px" align="left" margin='10px'>
 
-<p> Improaving with time! </p>
+<p> Improving with time! </p>
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=diogosabec&theme=tokyonight" width="300" alt="Readme Card">
