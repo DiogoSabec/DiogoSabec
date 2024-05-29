@@ -1,6 +1,6 @@
 <img src="files\header_en.svg" align="center">
 
-<img src="files\image.png" alt="ilustração de um computador" width="400px" align="right">
+<img src="files\image.png" alt="ilustração de um computador" width="300px" align="right">
 
 <p align="left">
     Living in Brazil, I'm currently working as a QA In Fortis Games, but also studing at UNIFIL, I´m in the last year of Computer Science University.
@@ -48,15 +48,16 @@ What I love:
   💌 Get in touch! ⤵️
 </p>
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=diogovanzosabec@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-sabec/" alt="LinkedIn"/></a>
+  <a href="mailto:diogovanzosabec@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  " alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/diogo-sabec/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  " alt="LinkedIn"/></a>
 </p>
 
 
 ### ⚙️ GitHub Analytics
-
 <table>
   <tr>
     <td>
@@ -79,9 +80,10 @@ What I love:
 
 <img src="files\no-way-home-spider-man-no-way-home.gif" height="170px" align="left" margin='10px'>
 
-<p> Improving with time! </p>
+<p> Improaving with time! </p>
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=diogosabec&theme=tokyonight" width="300" alt="Readme Card">
   </a>
+
 
