@@ -3,7 +3,7 @@
 <img src="files\image.png" alt="ilustração de um computador" width="300px" align="right">
 
 <p align="left">
-    Living in Brazil, I'm currently working as a QA In Fortis Games, but also studing at UNIFIL, I´m in the last year of Computer Science University.
+    Living in Brazil, I'm currently working as a QA Game Tester In Studio Pixanoh, graduated in Computer Science on 2024.
 </p>
 
 <p align="left">
@@ -23,12 +23,8 @@ About Me:
 
 - 🤔 Exploring new tecnologies and always learning new things!
 - 🎓 Studying Computer Science in Unifil.
-- 💼 Working asa QA in Fortisgames.
-- 🌱 Learning more about GODOT Game engine and AI. You check my current project in progress below:
-</p>
-  <a href="https://github.com/DiogoSabec/AR-Mustache">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogosabec&repo=AR-Mustache&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="300" alt="Readme Card">
-  </a>
+- 💼 Working asa QA in Studio Pixanoh.
+- 🌱 Learning more about GODOT Game engine and AI.
 
 
 <p>
