@@ -21,10 +21,10 @@
 <p align="left">
 About Me:
 
-- 🤔 Exploring new tecnologies and always learning new things!
-- 🎓 Studying Computer Science in Unifil.
+- 🎓 Graduated in Computer Science.
 - 💼 Working asa QA in Studio Pixanoh.
 - 🌱 Learning more about GODOT Game engine and AI.
+- 🤔 Exploring new tecnologies and always learning new things!
 
 
 <p>
