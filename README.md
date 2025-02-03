@@ -54,7 +54,7 @@ What I love:
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosabec&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosabec&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
